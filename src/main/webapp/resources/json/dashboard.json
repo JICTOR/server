@@ -1,0 +1,190 @@
+[
+  {
+    "key": "com.fasoo.service.impl.FilesUploadingServiceImpl",
+    "value": 7
+  },
+  {
+    "key": "com.fasoo.service.impl.GitServiceImpl",
+    "value": 6
+  },
+  {
+    "key": "com.fasoo.service.impl.VisualServiceImpl",
+    "value": 5
+  },
+  {
+    "key": "com.fasoo.logic.utils.db.MongoDBUtils",
+    "value": 4
+  },
+  {
+    "key": "com.fasoo.logic.git.GitParser",
+    "value": 4
+  },
+  {
+    "key": "com.fasoo.logic.visual.tree.TreeVisual",
+    "value": 4
+  },
+  {
+    "key": "com.fasoo.service.impl.CodeVisualServiceImpl",
+    "value": 3
+  },
+  {
+    "key": "com.fasoo.service.impl.BubbleVisualServiceImpl",
+    "value": 3
+  },
+  {
+    "key": "com.fasoo.web.controller.FilesUploadController",
+    "value": 3
+  },
+  {
+    "key": "com.fasoo.logic.utils.json.JsonUtils",
+    "value": 3
+  },
+  {
+    "key": "com.fasoo.web.controller.GitController",
+    "value": 3
+  },
+  {
+    "key": "com.fasoo.service.impl.TreeVisualServiceImpl",
+    "value": 2
+  },
+  {
+    "key": "com.fasoo.logic.visual.sunburst.SunburstVisual",
+    "value": 2
+  },
+  {
+    "key": "com.fasoo.service.impl.SunburstVisualServiceImpl",
+    "value": 2
+  },
+  {
+    "key": "com.fasoo.logic.visual.bubble.BubbleVisual",
+    "value": 2
+  },
+  {
+    "key": "com.fasoo.logic.git.GitFile",
+    "value": 2
+  },
+  {
+    "key": "com.fasoo.service.FilesUploadingService",
+    "value": 1
+  },
+  {
+    "key": "com.fasoo.service.impl.DashBoardServiceImpl",
+    "value": 1
+  },
+  {
+    "key": "com.fasoo.logic.vo.tree.ClassInfoFieldVO",
+    "value": 1
+  },
+  {
+    "key": "com.fasoo.logic.vo.sunburst.PackageVO",
+    "value": 1
+  },
+  {
+    "key": "com.fasoo.logic.git.GitCommitDiff",
+    "value": 1
+  },
+  {
+    "key": "com.fasoo.logic.vo.user.GitUserVO",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.service.GitService",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.logic.utils.mail.MailUtils",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.service.BubbleVisualService",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.web.controller.CodeVisualController",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.web.command.GitCommand",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.service.CodeService",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.web.controller.TreeVisualController",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.web.controller.DashBoardController",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.logic.vo.bubble.UseUsedVO",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.service.VisualService",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.logic.utils.time.TimePrint",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.service.SunburstVisualService",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.service.TreeVisualService",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.web.command.FilesUploadCommand",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.logic.vo.search.ClassInfoSearchVO",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.logic.utils.file.FileUtils",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.service.DashBoardService",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.web.controller.VisualController",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.logic.utils.file.ZipUtils",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.logic.vo.git.GitCommitVO",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.logic.vo.tree.ClassInfoFieldChildrenVO",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.web.controller.SunburstVisualController",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.logic.vo.search.CommitSearchVO",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.logic.vo.user.ProjectUserVO",
+    "value": 0
+  },
+  {
+    "key": "com.fasoo.web.controller.BubbleVisualController",
+    "value": 0
+  }
+]
